@@ -1,1 +1,6 @@
 C:\Cursos\OnlyJavaEE\java-backend\src\main\java\el\com\op\domain\Persona.java
+C:\Cursos\OnlyJavaEE\java-backend\src\main\java\el\com\op\data\PersonaDao.java
+C:\Cursos\OnlyJavaEE\java-backend\src\main\java\el\com\op\data\PersonaDaoImpl.java
+C:\Cursos\OnlyJavaEE\java-backend\src\main\java\el\com\op\web\CorsFilter.java
+C:\Cursos\OnlyJavaEE\java-backend\src\main\java\el\com\op\web\JAXRSActivator.java
+C:\Cursos\OnlyJavaEE\java-backend\src\main\java\el\com\op\servicio\PersonaServiceRS.java
